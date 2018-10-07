@@ -1,0 +1,1 @@
+web: gunicorn ibeacon_server.wsgi --log-file -
