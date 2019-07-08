@@ -26,7 +26,7 @@ SECRET_KEY = '9r@%ul0_-882v#$bm0yw(s^cnwai6lwzsksc$%m*-#e$8lpwo^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', 'hackathon-win.herokuapp.com', '.herokuapp.com']
+ALLOWED_HOSTS = ['localhost', 'hackathon-win.herokuapp.com', '.herokuapp.com', '194.165.3.32']
 
 
 # Application definition
